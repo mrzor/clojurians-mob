@@ -26,3 +26,9 @@ Also, join us on `#mob-programming` on [Clojurians' Slack](https://clojurians.sl
 - Coding person streams to twitch without sound, people hop into teamspeak/discord/mumble to contribute
 - Coding person collects public keys from the mob, gives them shell access to something, and they all hack together inside a screen or tmux session
 - Suggestions welcome
+
+### Get involved !
+
+Open an issue and request commit access if you want to edit the documents.
+
+Come talk with us on Clojurians' slack!
