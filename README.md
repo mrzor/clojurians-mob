@@ -9,6 +9,8 @@ If the answer is yes, then read on!
 3) Pick a time. Please make it public so the swarm might mob you.
 4) Pick a way to do it.
 
+Also, join us on `#mob-programming` on [Clojurians' Slack](https://clojurians.slack.com). It will nicer with you in it.
+
 ### List of projects at least one person is willing to hack on
 - Haha, fixme.
 - Hoho, fixme.
