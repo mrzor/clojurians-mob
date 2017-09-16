@@ -20,6 +20,7 @@ Also, join us on `#mob-programming` on [Clojurians' Slack](https://clojurians.sl
 
 - mrzor, prefers Clojure to Clojurescript for now. lives on the CEST timezone. available some days, from 1700 UTC to 0200 UTC.
 - Alex Keyes, prefers Clojure to Clojurescript but is open to any new adventure.  Lives in EST timezone.  Available weekends and during the week around 1900 to 2200 UTC.
+- madstap, prefers Clojure to Clojurescript, but open minded. Lives in UTC -3. Available weekends and some weekdays 1700 to 0500 UTC.
 - _You !_
 
 ### List of ways to do it
