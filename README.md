@@ -35,4 +35,4 @@ It will feel much nicer with you around!
 
 Open an issue and request commit access if you want to edit the documents.
 
-Come talk with us on Clojurians' slack!
+Come talk with us on [http://clojurians.net/](Clojurians' slack)!
