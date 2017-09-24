@@ -30,6 +30,7 @@ It will feel much nicer with you around!
 
 - Coding person streams to twitch with or without sound, people hop into teamspeak/discord/mumble to contribute (We'll be adding a setup guide for code streaming in the near future)
 - Coding person collects public keys from the mob, gives them shell access to something, and they all hack together inside a screen or tmux session
+- TODO : Write down a simple OBS setup guide for people who are new to twitch streaming.
 - Suggestions welcome
 
 ### Get involved !
