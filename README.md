@@ -16,6 +16,7 @@ It will feel much nicer with you around!
 ### List of projects at least one person is willing to hack on
 - [mrzor/httpbis](https://github.com/mrzor/httpbis)
 - Building a Mob Programming Website?
+- Setting up a MP slack bot
 - _Your idea Here!_
 
 ### List of people
