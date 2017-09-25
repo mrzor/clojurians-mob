@@ -30,8 +30,8 @@ It will feel much nicer with you around!
 
 - Coding person streams to twitch with or without sound, people hop into teamspeak/discord/mumble to contribute (We'll be adding a setup guide for code streaming in the near future)
 - Coding person collects public keys from the mob, gives them shell access to something, and they all hack together inside a screen or tmux session
-- TODO : Write down a simple OBS setup guide for people who are new to twitch streaming.
-- Suggestions welcome
+- Check out the [wiki](https://github.com/mrzor/clojurians-mob/wiki) for more information regarding setting up your own stream using Twitch and OBS.
+- Suggestions welcome! Feel free to contribute directly to the wiki and/or update this README.
 
 ### Get involved !
 
